@@ -104,16 +104,3 @@ data () {
 | :--------:|:-----:| :----:  |:----:  |:----:|
 |bdSelectMiniList|自定义弹出浮层中的分享按钮类型和排列顺序。|array|同shareList||
 |bdContainerClass|自定义划词分享的激活区域。|string|myclassname||
-
-
-
-
-
-
-
-
-
-
-
-
-
