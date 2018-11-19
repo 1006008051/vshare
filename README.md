@@ -80,14 +80,14 @@ data () {
 |bdSize|分享按钮的尺寸|int|16<br>24<br>32||
 |bdCustomStyle|自定义样式，引入样式文件|string|样式文件地址||
 
-### slide
+### slide （如不需要不传参数或者传false）
 |  配置项名称 |  说明   |  类型 |  可选值 |  默认值 |
 | :--------:|:-----:| :----:  |:----:  |:----:|
 |bdImg|分享浮窗图标的颜色。|string|0<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8||
 |bdPos|分享浮窗的位置|string|left<br>right||
 |bdTop|分享浮窗与可是区域顶部的距离(px)|int|||
 
-### image
+### image（如不需要不传参数或者传false）
 |  配置项名称 |  说明   |  类型 |  可选值 |  默认值 |
 | :--------:|:-----:| :----:  |:----:  |:----:|
 |tag|表示该配置只会应用于data-tag值一致的图片。如果不设置tag，该配置将应用于所有图片。|string|与data-tag一致||
@@ -97,7 +97,7 @@ data () {
 |viewSize|图片分享展示层的图标大小。|int|16<br>24<br>32||
 |viewList|自定义展示层中的分享按钮类型和排列顺序。|array|同shareList||
 
-### selectShare
+### selectShare（如不需要不传参数或者传false）
 |  配置项名称 |  说明   |  类型 |  可选值 |  默认值 |
 | :--------:|:-----:| :----:  |:----:  |:----:|
 |bdSelectMiniList|自定义弹出浮层中的分享按钮类型和排列顺序。|array|同shareList||
