@@ -12,7 +12,8 @@
 > //or require</br>
 `var vshare = require('vshare')`</br>
 
-> `Vue.use(vshare)`</br>
+> `Vue.use(vshare)`
+
 > // 或者直接使用script导入</br>
 `<script src="./node_modules/vshare/dist/vshare.js"></script>`
 
