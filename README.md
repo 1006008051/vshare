@@ -23,7 +23,8 @@
 // 组件
 <vshare
   :vshareConfig="vshareConfig"
-></vshare>
+>
+</vshare>
 // 数据
 data () {
   vshareConfig: {
