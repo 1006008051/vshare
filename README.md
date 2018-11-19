@@ -1,7 +1,7 @@
 # vshare
 ![markdown](http://file.gcx365.com:8090/group1/M00/00/A2/d1ozqVvyUPCAWam4AAAQsow7OYo872.png "markdown")
 >基于百度分享开发的支持VUE2.X的分享插件,为您带来更多的流量！提供多种风格按钮，代码加载更快，引入社会化流量，提升网页抓取速度等优点。
-
+![markdown](http://file.gcx365.com:8090/group1/M00/00/A3/d1ozqVvyireAC6hrAAAMYeZOs9s609.jpg"markdown")
 # 安装
 > `npm install vshare -S`
 
