@@ -14,9 +14,6 @@
 
 > `Vue.use(vshare)`
 
-> // 或者直接使用script导入</br>
-`<script src="./node_modules/vshare/dist/vshare.js"></script>`
-
 **组件使用**
 > `<vshare></vshare>`
 
