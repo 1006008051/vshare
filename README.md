@@ -7,15 +7,13 @@
 
 # 使用
 **注入**
->// ES6</br>
-`import vshare from 'vshare'`
-</br>
->//or require</br>
-`var vshare = require('vshare')`
-</br>
->`Vue.use(vshare)`
-</br>
->// 或者直接使用script导入</br>
+> // ES6</br>
+`import vshare from 'vshare'`</br>
+> //or require</br>
+`var vshare = require('vshare')`</br>
+
+> `Vue.use(vshare)`</br>
+> // 或者直接使用script导入</br>
 `<script src="./node_modules/vshare/dist/vshare.js"></script>`
 
 **组件使用**
