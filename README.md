@@ -21,8 +21,8 @@
 
 # 配置
 
-`
-// 组件
+```
+>// 组件
 <vshare
   :vshareConfig="vshareConfig"
 ></vshare>
@@ -49,7 +49,7 @@ data () {
             //此处放置划词分享设置
           ]
         }
-}`
+}```
 
 # vshareConfig
 
