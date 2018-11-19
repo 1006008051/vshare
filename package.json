@@ -1,15 +1,11 @@
 {
   "name": "vshare",
-  "description": "最好用的vue分享插件-vshare",
-  "version": "0.0.0",
+  "description": "基于百度分享开发的支持VUE2.X的分享插件,为您带来更多的流量！提供多种风格按钮，代码加载更快，引入社会化流量，提升网页抓取速度等优点。",
+  "version": "1.0.2",
   "author": "王永存 <1006008051@qq.com>",
   "license": "MIT",
   "private": false,
   "main": "dist/vshare.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/1006008051/vshare"
-  },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
