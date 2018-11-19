@@ -23,7 +23,7 @@
 
 # 配置
 
-```javascript
+`
 // 组件
 <vshare
   :vshareConfig="vshareConfig"
@@ -51,9 +51,10 @@ data () {
             //此处放置划词分享设置
           ]
         }
-}```
+}`
 
-#vshareConfig
+# 配置
+
 ###shareList
 
 |  配置项名称  |  说明   |  类型 |  可选值 |  默认值 |
